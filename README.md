@@ -13,7 +13,7 @@ The UFPR-VC dataset contains 10,039 images of 9,502 distinct vehicles across var
     <img src=./imgs/ufpr_vc_samples.png alt="samples from UFPR-VC dataset">
 </figure>
 
-The dataset's images were sourced from six public datasets collected in Brazil, originally created for automatic license plate recognition. These datasets include [OpenALPR-BR](https://github.com/openalpr/benchmarks/tree/master/endtoend/br/), [RodoSol-ALPR](https://github.com/raysonlaroca/rodosol-alpr-dataset), [SSIG-SegPlate](https://doi.org/10.1117/1.JEI.25.5.053034), [UFOP](https://doi.org/10.1109/ICSMC.2011.6084108), [UFPR-ALPR](https://web.inf.ufpr.br/vri/databases/ufpr-alpr/), and [Vehicle-Rear](https://github.com/icarofua/vehicle-rear). The original images underwent preprocessing and selection procedures to standardize them and identify those suitable for vehicle color recognition.
+The dataset's images were sourced from six public datasets collected in Brazil, originally created for automatic license plate recognition (ALPR). These datasets include [OpenALPR-BR](https://github.com/openalpr/benchmarks/tree/master/endtoend/br/), [RodoSol-ALPR](https://github.com/raysonlaroca/rodosol-alpr-dataset), [SSIG-SegPlate](https://doi.org/10.1117/1.JEI.25.5.053034), [UFOP](https://doi.org/10.1109/ICSMC.2011.6084108), [UFPR-ALPR](https://web.inf.ufpr.br/vri/databases/ufpr-alpr/), and [Vehicle-Rear](https://github.com/icarofua/vehicle-rear). The original images underwent preprocessing and selection procedures to standardize them and identify those suitable for vehicle color recognition.
 
 The images cover eleven distinct vehicle colors: beige, black, blue, brown, gray, green, orange, red, silver, white, and yellow. The class distribution of the dataset is presented in Fig. 2. Annotations for over 90% of the vehicles were validated using information obtained from the corresponding license plate annotations in the original datasets.
 
@@ -30,7 +30,7 @@ Regarding privacy concerns, it is important to note that since the data originat
 
 As we are not the creators of the original ALPR datasets, we have decided to grant access to the images we have generated from these datasets upon request, subject to the signing of a licensing agreement. In essence, the UFPR-VC dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**.
 
-To access the dataset, please review the [**license agreement**](./pdfs/), complete it, and return it to the first author at ([gelima@inf.ufpr.br](mailto:gelima@inf.ufpr.br)). Make sure to send your request from a valid university email account (e.g., .edu, .ac, or similar). You can expect to receive a download link within 1-5 business days. 
+To access the dataset, please review the [**license agreement**](./pdfs/), sign it, and return it to the first author at ([gelima@inf.ufpr.br](mailto:gelima@inf.ufpr.br)). Make sure to send your request from a valid university email account (e.g., .edu, .ac, or similar). You can expect to receive a download link within 1-5 business days. 
 
 Please note that failure to follow these instructions may result in no response.
 
