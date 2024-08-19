@@ -8,10 +8,10 @@ The UFPR Vehicle Color (UFPR-VC) dataset contains 10,039 images of 9,502 distinc
 
 <br>
 <figure>
-    <img src=./imgs/ufpr_vc_samples.png alt="samples from UFPR-VC dataset">
     <figcaption>
         <b>Fig. 1.</b> Examples of images from the UFPR-VC dataset, with the corresponding vehicle color annotations displayed above each image.
     </figcaption>
+    <img src=./imgs/ufpr_vc_samples.png alt="samples from UFPR-VC dataset">
 </figure>
 <br>
 
@@ -21,10 +21,10 @@ The images cover eleven distinct vehicle colors: beige, black, blue, brown, gray
 
 <br>
 <figure>
-    <img src=./imgs/class_dist.png alt="UFPR-VC class distribution">
     <figcaption>
         <b>Fig. 2.</b> Distribution of vehicle colors in the UFPR-VC dataset.
     </figcaption>
+    <img src=./imgs/class_dist.png alt="UFPR-VC class distribution">
 </figure>
 <br>
 
