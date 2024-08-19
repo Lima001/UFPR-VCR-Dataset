@@ -1,6 +1,6 @@
 # UFPR-VC Dataset
 
-The UFPR Vehicle Color (UFPR-VC) dataset was introduced in 2024 to address vehicle color recognition in more complex scenarios than those explored in previous studies. The dataset's construction and initial results from experiments using deep learning models are detailed in the paper *Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark* [[PDF]]().
+The UFPR Vehicle Color (UFPR-VC) dataset was created to tackle vehicle color recognition in more complex scenarios than those explored in previous studies. The dataset's construction and initial results from experiments using deep learning models are detailed in our paper *Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark* [[PDF]]().
 
 ## About
 
@@ -28,11 +28,11 @@ The images cover eleven distinct vehicle colors: beige, black, blue, brown, gray
 </figure>
 <br>
 
-Regarding privacy concerns, it is important to note that since the data originates from Brazilian automatic license plate recognition datasets, the license plates are associated with vehicles only, and no public information about vehicle drivers or owners is available.
+Regarding privacy concerns, it is important to note that since the data originates from datasets acquired in Brazil, the license plates are associated with the vehicles only, and no public information about vehicle drivers or owners is available.
 
 ## How to obtain
 
-The UFPR-VC dataset is available exclusively for academic research and is provided free of charge to researchers affiliated with educational or research institutions for **non-commercial use**.
+As we are not the creators of the original ALPR datasets, we have decided to grant access to the images we have generated from these datasets upon request, subject to the signing of a licensing agreement. In essence, the UFPR-VC dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**.
 
 To access the dataset, please review the [**license agreement**](./pdfs/), complete it, and return it to the first author at ([gelima@inf.ufpr.br](mailto:gelima@inf.ufpr.br)). Make sure to send your request from a valid university email account (e.g., .edu, .ac, or similar). You can expect to receive a download link within 1-5 business days. 
 
@@ -41,9 +41,9 @@ Please note that failure to follow these instructions may result in no response.
 
 ## Citation
 
-If you use the UFPR-VC dataset in your research, please cite the paper:
+If you use the UFPR-VC dataset in your research, please cite our paper:
 
-* Paper [[arXiv]]().
+* G. E. Lima, R. Laroca, E. Santos, E. Nascimento Jr., D. Menotti, "Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark," in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 1-6, Sept. 2024.
 
 ```
 @inproceedings{lima2024toward,
