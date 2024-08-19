@@ -46,18 +46,17 @@ If you use the UFPR-VC dataset in your research, please cite the paper:
 * Paper [[arXiv]]().
 
 ```
-@inproceedings{key,
-  title = {},
-  author = {},
-  year = {},
-  month = {},
-  booktitle = {},
+@inproceedings{lima2024toward,
+  title = {Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmar},
+  author = {G. E. {Lima} and R. {Laroca} and E. {Santos} and E. {Nascimento Jr.} and D. {Menotti}},
+  year = {2024},
+  month = {Sept},
+  booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI)},
   volume = {},
   number = {},
-  pages = {},
+  pages = {1-6},
   doi = {},
-  isbn = {},
-  issn = {}
+  issn = {1530-1834},
 }
 ```
 
