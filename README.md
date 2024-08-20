@@ -34,7 +34,6 @@ To access the dataset, please review the [**license agreement**](./pdfs/license_
 
 Please note that failure to follow these instructions may result in no response.
 
-
 ## Citation
 
 If you use the UFPR-VCR dataset in your research, please cite our paper:
@@ -55,6 +54,10 @@ If you use the UFPR-VCR dataset in your research, please cite our paper:
   issn = {1530-1834},
 }
 ```
+
+## Related publications
+
+A list of all our papers on vehicle identification can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2018&q=allintitle%3A+plate+OR+license+OR+vehicle+author%3A%22David+Menotti%22&btnG=).
 
 ## Contact
 
