@@ -1,6 +1,6 @@
 # UFPR-VCR Dataset
 
-The UFPR Vehicle Color Recognition (UFPR-VCR) dataset was created to tackle vehicle color recognition in more complex scenarios than those explored in previous studies. The dataset's construction and initial results from experiments using deep learning models are detailed in our paper *Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark* [[PDF]]().
+The UFPR Vehicle Color Recognition (UFPR-VCR) dataset was created to tackle vehicle color recognition in more complex scenarios than those explored in previous studies. The dataset's construction and initial results from experiments using deep learning models are detailed in our paper *Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark* [[PDF]](https://arxiv.org/pdf/2408.11589).
 
 ## About
 
@@ -38,7 +38,7 @@ Please note that failure to follow these instructions may result in no response.
 
 If you use the UFPR-VCR dataset in your research, please cite our paper:
 
-* G. E. Lima, R. Laroca, E. Santos, E. Nascimento Jr., D. Menotti, "Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark," in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 1-6, Sept. 2024.
+* G. E. Lima, R. Laroca, E. Santos, E. Nascimento Jr., D. Menotti, "Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark," in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 1-6, Sept. 2024. [[arXiv]](https://arxiv.org/abs/2408.11589)
 
 ```
 @inproceedings{lima2024toward,
