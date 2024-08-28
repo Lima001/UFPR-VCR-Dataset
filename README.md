@@ -42,7 +42,7 @@ If you use the UFPR-VCR dataset in your research, please cite our paper:
 
 ```
 @inproceedings{lima2024toward,
-  title = {Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmar},
+  title = {Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark},
   author = {G. E. {Lima} and R. {Laroca} and E. {Santos} and E. {Nascimento Jr.} and D. {Menotti}},
   year = {2024},
   month = {Sept},
