@@ -38,7 +38,7 @@ Please note that failure to follow these instructions may result in no response.
 
 If you use the UFPR-VCR dataset in your research, please cite our paper:
 
-* G. E. Lima, R. Laroca, E. Santos, E. Nascimento Jr., D. Menotti, "Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark," in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 1-6, Sept. 2024. [[arXiv]](https://arxiv.org/abs/2408.11589)
+* G. E. Lima, R. Laroca, E. Santos, E. Nascimento Jr., D. Menotti, "Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark," in *Conference on Graphics, Patterns and Images (SIBGRAPI)*, pp. 1-6, Sept. 2024. [[IEEE Xplore]](https://doi.org/10.1109/SIBGRAPI62404.2024.10716307) [[arXiv]](https://arxiv.org/abs/2408.11589)
 
 ```
 @inproceedings{lima2024toward,
@@ -50,7 +50,7 @@ If you use the UFPR-VCR dataset in your research, please cite our paper:
   volume = {},
   number = {},
   pages = {1-6},
-  doi = {},
+  doi = {10.1109/SIBGRAPI62404.2024.10716307},
   issn = {1530-1834},
 }
 ```
